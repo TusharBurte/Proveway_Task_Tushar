@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const boxes = document.querySelectorAll(".box");
 
-  // setting the default selected box tobe box1
   boxes[0].classList.add("selected");
   boxes[0].querySelector(".radio-button").checked = true;
 
