@@ -45,7 +45,8 @@ body {
 .add-to-cart-button {
   width: 100%;
   padding: 15px;
-  background-color: rgba(0, 127, 97, 1);
+  background-color:blue;
+/*   background-color: rgba(0, 127, 97, 1); */
   color: #fff;
   border: none;
   cursor: pointer;
